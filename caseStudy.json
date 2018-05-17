@@ -1,0 +1,153 @@
+[
+-{
+	BRAND: "Nintendo",
+	PRODUCTNAME: "Switch Console",
+	GRAPHICNAME: "Switch-Console",
+	COSTPRICE: "259.99",
+	MSRP: "299.99",
+	QTYONHAND: "25",
+	QTYONBACKORDER: "50",
+	DESCRIPTION: "The Nintendo Switch is a hybrid video game console, with the main system comprising the 'Switch Console', the 'Switch Dock', and the 'Joy-Con' controllers. Although it is a hybrid console, Fils-Aimé stated that the Switch is 'a home console that you can take with you on the go'."
+},
+{
+	BRAND: "Nintendo",
+	PRODUCTNAME: "Joy-Con Controller",
+	GRAPHICNAME: "Joy-Con-Controller",
+	COSTPRICE: "49.99",
+	MSRP: "59.99",
+	QTYONHAND: "60",
+	QTYONBACKORDER: "25",
+	DESCRIPTION: "The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the 'Joy-Con L' and 'Joy-Con R'. The controllers are attached to the Switch Console via side rails using a locking mechanism, with a small release button on their rear face to allow them to be detached. When detached, they can be used as a pair by a single player, attached to a grip that emulates a gamepad form factor, or used as separate controllers by two individual players. A single Switch console can support up to eight Joy-Con connections. Straps can be attached to the sides of Joy-Con when they are detached."
+},
+-{
+	BRAND: "Nintendo",
+	PRODUCTNAME: "Switch Dock",
+	GRAPHICNAME: "Switch-Dock",
+	COSTPRICE: "29.99",
+	MSRP: "59.99",
+	QTYONHAND: "10",
+	QTYONBACKORDER: "15",
+	DESCRIPTION: "docking station with electrical connectors to connect the Console to a power supply to charge its battery, and to a television via an HDMI connection for video/audio output. The Dock also includes two USB 2.0 ports and one USB 3.0 port (which, as of March 11, 2018, has yet to receive an update enabling 3.0 functionality). While docked, the unit can support resolutions up to 1080p and maximum frame rate of 60 frames per second."
+},
+-{
+	BRAND: "Nintendo",
+	PRODUCTNAME: "Pro Controller",
+	GRAPHICNAME: "Pro-Controller",
+	COSTPRICE: "69.99",
+	MSRP: "89.99",
+	QTYONHAND: "10",
+	QTYONBACKORDER: "15",
+	DESCRIPTION: "The Switch supports the wireless Pro Controller, which has a more traditional design reminiscent of the Wii Classic Controller Pro and Wii U Pro Controller."
+	},
+-{
+	BRAND: "Nintendo",
+	PRODUCTNAME: "Legend of Zelda: Breath of the Wild",
+	GRAPHICNAME: "Zelda-BOTW",
+	COSTPRICE: "69.99",
+	MSRP: "89.99",
+	QTYONHAND: "70",
+	QTYONBACKORDER: "20",
+	DESCRIPTION: "The story follows Link, who awakens from a hundred-year slumber to a mysterious voice that guides him to defeat Calamity Ganon before it can destroy the kingdom of Hyrule. The game is played in an open world environment. Players are given little instruction and can explore freely: common tasks include collecting multi-purpose items to aid in various objectives or solving puzzles and side-quests in order to obtain rewards."
+-{
+	BRAND: "Microsoft",
+	PRODUCTNAME: "Xbox One Console",
+	GRAPHICNAME: "Xbox-One-Console",
+	COSTPRICE: "329.99",
+	MSRP: "359.99",
+	QTYONHAND: "60",
+	QTYONBACKORDER: "20",
+	DESCRIPTION: "Xbox One is a line of eighth generation home video game consoles developed by Microsoft. Announced in May 2013, it is the successor to Xbox 360 and the third console in the Xbox family. It was first released in North America, parts of Europe, Australia, and South America in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an 'all-in-one entertainment system'."
+},
+- {
+	BRAND: "Microsoft",
+	PRODUCTNAME: "Xbox One Controller",
+	GRAPHICNAME: "Xbox-One-Controller",
+	COSTPRICE: "59.99",
+	MSRP: "79.99",
+	QTYONHAND: "60",
+	QTYONBACKORDER: "25",
+	DESCRIPTION: "The Xbox One's controller maintains the overall layout found in the Xbox 360's controller, but with various refinements to its form. Among its changes include a smoother form, textured analog sticks, a four-way directional pad, and redesigned triggers and shoulder buttons with a curved shape for ergonomics"
+},
+- {
+	BRAND: "Microsoft",
+	PRODUCTNAME: "Kinect 2.0 Sensor",
+	GRAPHICNAME: "Kinect-Sensor",
+	COSTPRICE: "89.99",
+	MSRP: "99.99",
+	QTYONHAND: "60",
+	QTYONBACKORDER: "25",
+	DESCRIPTION: "Kinect 2.0 features a wide-angle time-of-flight camera and a 1080p camera, in comparison to the VGA resolution of the Xbox 360 version, and processes 2GB of data per second to map its environment. Kinect 2.0 has an improved accuracy over its predecessor"
+},
+- {
+	BRAND: "Microsoft",
+	PRODUCTNAME: "Elite Controller",
+	GRAPHICNAME: "Elite-Controller",
+	COSTPRICE: "109.99",
+	MSRP: "129.99",
+	QTYONHAND: "30",
+	QTYONBACKORDER: "10",
+	DESCRIPTION: "The Elite Wireless Controller, or just Elite Controller, was released in October 2015. It was described and marketed as 'an elite controller for the elite gamer', containing interchangeable parts, 'hair trigger locks' for the triggers that allow users to reduce the amount of distance they must be pressed to register a press, and software for remapping buttons."
+},
+- {
+	BRAND: "Microsoft",
+	PRODUCTNAME: "Halo 5: Guardians",
+	GRAPHICNAME: "Halo-5-Guardians",
+	COSTPRICE: "69.99",
+	MSRP: "79.99",
+	QTYONHAND: "100",
+	QTYONBACKORDER: "50",
+	DESCRIPTION: "Halo 5: Guardians is a first-person shooter video game developed by 343 Industries and published by Microsoft Studios for the Xbox One home video game console. The tenth installment and fifth main entry in the Halo series of video games, it was released worldwide on October 27, 2015. "
+},
+- {
+	BRAND: "Sony",
+	PRODUCTNAME: "Playstation 4",
+	GRAPHICNAME: "PS4-console",
+	COSTPRICE: "299.99",
+	MSRP: "329.99",
+	QTYONHAND: "45",
+	QTYONBACKORDER: "30"
+	DESCRIPTION: "The PlayStation 4 uses an Accelerated Processing Unit (APU) developed by AMD in cooperation with Sony. It combines a central processing unit (CPU) and graphics processing unit (GPU), as well as other components such as a memory controller and video decoder. The CPU consists of two quad-core Jaguar modules totaling 8 x86-64 cores. The GPU consists of 18 compute units to produce a theoretical peak performance of 1.84 TFLOPS. The system's GDDR5 memory is capable of running at a maximum clock frequency of 2.75 GHz (5500 MT/s) and has a maximum memory bandwidth of 176 GB/s. The console contains 8 GB of GDDR5 memory"
+},
+-{
+	BRAND: "Sony",
+	PRODUCTNAME: "Dualshock 4 Controller",
+	GRAPHICNAME: "Dualshock-4",
+	COSTPRICE: "69.99",
+	MSRP: "79.99",
+	QTYONHAND: "80",
+	QTYONBACKORDER: "15",
+	DESCRIPTION: "The DualShock 4 is PlayStation 4's primary controller; it maintains a similar design to previous iterations of the DualShock series, but with additional features and design refinements."
+	
+},
+-{
+	BRAND: "Sony",
+	PRODUCTNAME: "Playstation Camera",
+	GRAPHICNAME: "Playstation-Camera",
+	COSTPRICE: "89.99",
+	MSRP: "99.99",
+	QTYONHAND: "20",
+	QTYONBACKORDER: "15",
+	DESCRIPTION: "The PlayStation Camera is an optional motion sensor and camera for the PlayStation 4, similar to Kinect on Xbox. It includes two 1280×800 pixel lenses operating with an aperture of f/2.0, with 30 cm focusing distance, and an 85° field of view."
+},
+-{
+	BRAND: "Sony",
+	PRODUCTNAME: "Playstation VR",
+	GRAPHICNAME: "Playstation-VR",
+	COSTPRICE: "289.99",
+	MSRP: "329.99",
+	QTYONHAND: "10",
+	QTYONBACKORDER: "5",
+	DESCRIPTION: "PlayStation VR is a virtual reality system for PlayStation 4; it consists of a headset, which features a 1080p display panel, LED lights on the headset that are used by PlayStation Camera to track its motion, and a control box that processes 3D audio effects, as well as video output to the external display (either simulcasting the player's VR perspective, or providing an asymmetrical secondary perspective). "
+},
+-{
+	BRAND: "Sony",
+	PRODUCTNAME: "Playstation 4 Pro",
+	GRAPHICNAME: "PS4-Pro",
+	COSTPRICE: "369.99",
+	MSRP: "399.99",
+	QTYONHAND: "45",
+	QTYONBACKORDER: "20",
+	DESCRIPTION: "Sony unveiled PlayStation 4 Pro, a high-end version of the console with an upgraded GPU and higher CPU clock rate to support 4K gameplay on supported titles. "
+}
+	
+]
