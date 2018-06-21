@@ -16,7 +16,7 @@
 		"MSRP": "99.99",
 		"QTYONHAND": "10",
 		"QTYONBACKORDER": "0",
-		"DESCRIPTION": "The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the Joy-Con L and Joy-Con R. The controllers are attached to the Switch Console via side rails using a locking mechanism, with a small release button on their rear face to allow them to be detached."
+		"DESCRIPTION": "The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the Joy-Con L and Joy-Con R."
 	},
 	{
 		"BRAND": "Nintendo",
@@ -26,7 +26,7 @@
 		"MSRP": "59.99",
 		"QTYONHAND": "10",
 		"QTYONBACKORDER": "15",
-		"DESCRIPTION": "docking station with electrical connectors to connect the Console to a power supply to charge its battery, and to a television via an HDMI connection for video/audio output. The Dock also includes two USB 2.0 ports and one USB 3.0 port (which, as of March 11, 2018, has yet to receive an update enabling 3.0 functionality)."
+		"DESCRIPTION": "docking station with electrical connectors to connect the Console to a power supply to charge its battery, and to a television via an HDMI connection for video/audio output"
 	},
 	{
 		"BRAND": "Nintendo",
@@ -66,7 +66,7 @@
 		"MSRP": "79.99",
 		"QTYONHAND": "60",
 		"QTYONBACKORDER": "25",
-		"DESCRIPTION": "The Xbox One's controller maintains the overall layout found in the Xbox 360's controller, but with various refinements to its form. Among its changes include a smoother form, textured analog sticks, a four-way directional pad, and redesigned triggers and shoulder buttons with a curved shape for ergonomics"
+		"DESCRIPTION": "The Xbox Ones controller maintains the overall layout found in the Xbox 360's controller, but with various refinements to its form. Among its changes include a smoother form, textured analog sticks, a four-way directional pad, and redesigned triggers and shoulder buttons with a curved shape for ergonomics"
 	},
 	{
 		"BRAND": "Microsoft",
