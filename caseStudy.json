@@ -3,20 +3,20 @@
 		"PRODUCTNAME": "Switch Console",
 		"GRAPHICNAME": "Switch-Console",
 		"COSTPRICE": "259.99",
-		"MSRP": "299.99",
-		"QTYONHAND": "25",
-		"QTYONBACKORDER": "50",
-		"DESCRIPTION": "The Nintendo Switch is a hybrid video game console, with the main system comprising the 'Switch Console', the 'Switch Dock', and the 'Joy-Con' controllers. Although it is a hybrid console, Fils-Aimé stated that the Switch is 'a home console that you can take with you on the go'."
+		"MSRP": "109.99",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Nintendo Switch is a hybrid video game console, with the main system comprising the Switch Console, the Switch Dock, and the Joy-Con controllers. Although it is a hybrid console, Fils-Aimé stated that theSwitch is a home console that you can take with you on the go"
 	},
 	{
 		"BRAND": "Nintendo",
 		"PRODUCTNAME": "Joy-Con",
 		"GRAPHICNAME": "Joy-Con",
 		"COSTPRICE": "49.99",
-		"MSRP": "59.99",
-		"QTYONHAND": "60",
-		"QTYONBACKORDER": "25",
-		"DESCRIPTION": "The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the 'Joy-Con L' and 'Joy-Con R'. The controllers are attached to the Switch Console via side rails using a locking mechanism, with a small release button on their rear face to allow them to be detached."
+		"MSRP": "99.99",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Nintendo Switch comes with controllers collectively called Joy-Con, individually called the Joy-Con L and Joy-Con R. The controllers are attached to the Switch Console via side rails using a locking mechanism, with a small release button on their rear face to allow them to be detached."
 	},
 	{
 		"BRAND": "Nintendo",
@@ -86,7 +86,7 @@
 		"MSRP": "129.99",
 		"QTYONHAND": "30",
 		"QTYONBACKORDER": "10",
-		"DESCRIPTION": "The Elite Wireless Controller, or just Elite Controller, was released in October 2015. It was described and marketed as 'an elite controller for the elite gamer', containing interchangeable parts, 'hair trigger locks' for the triggers that allow users to reduce the amount of distance they must be pressed to register a press, and software for remapping buttons."
+		"DESCRIPTION": "The Elite Wireless Controller, or just Elite Controller, was released in October 2015. It was described and marketed as an elite controller for the elite gamer, containing interchangeable parts, hair trigger locks for the triggers that allow users to reduce the amount of distance they must be pressed to register a press, and software for remapping buttons."
 	},
 	{
 		"BRAND": "Microsoft",
